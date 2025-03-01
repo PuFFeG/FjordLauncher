@@ -26,7 +26,7 @@ You **will** open an issue [here](https://github.com/unmojang/FjordLauncher/issu
 
 ```PowerShell
 scoop bucket add unmojang https://github.com/unmojang/scoop-unmojang
-scoop install unmojang/fjordlauncher
+scoop install PuFFeG/fjordlauncher
 ```
 
 #### Windows (Manual)
